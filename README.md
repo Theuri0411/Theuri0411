@@ -81,7 +81,8 @@
 <details>
   <summary>:zap: Stats and Favourites</summary>
 <!--START_SECTION:activity-->
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&theme=radical)
+
+[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&theme=radical)
 
 ### Fav Repos
 
