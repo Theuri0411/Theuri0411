@@ -78,21 +78,22 @@
 
 </details>
 
-### My Stats
-
+<details>
+  <summary>:zap: Stats and Favourites</summary>
+<!--START_SECTION:activity-->
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&theme=radical)
 
-### Some Repos
-
-<!-- YOUTUBE:START -->
+### Fav Repos
 
 [![HTML Form](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=form)](https://github.com/Theuri0411/form)
 
 [![Tax Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=TaxCalculator)](https://github.com/Theuri0411/TaxCalculator)
 
-<!-- YOUTUBE:START -->
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuri0411&layout=compact)]
+
+<!--END_SECTION:activity-->
+
+</details>
 
 [twitter]: https://twitter.com/Theuri0411
 [instagram]: https://instagram.com/jeffshady_
