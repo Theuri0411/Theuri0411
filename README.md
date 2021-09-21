@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jeff's GitHub Stats" src="https://github-readme-stats.Theuri0411.vercel.app/api?username=Theuri0411&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jeff's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&count_private=true&include_all_commits&theme=tokyonight" />
 
 </details>
 
