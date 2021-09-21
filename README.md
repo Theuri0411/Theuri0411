@@ -26,8 +26,6 @@
 
 <img align="left" alt="WebStorm" width="20px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" />
 
----
-
 <br />
 
 ### Languages
