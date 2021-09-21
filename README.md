@@ -79,11 +79,17 @@
 </details>
 
 <details>
-  <summary>:zap: Jeff's GitHub Stats</summary>
+  <summary>:zap:GitHub Stats</summary>
 
-  <img align="left" alt="Jeff's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&count_private=true&include_all_commits&theme=night" />
+  <img align="left" alt="Jeff's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&count_private=true&include_all_commits&theme=dracula" />
 
 </details>
+
+[![HTML Form](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=form)](https://github.com/Theuri0411/form)
+
+[![Tax Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=TaxCalculator)](https://github.com/Theuri0411/TaxCalculator)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuri0411=compact)]
 
 [twitter]: https://twitter.com/Theuri0411
 [instagram]: https://instagram.com/jeffshady_
