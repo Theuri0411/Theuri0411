@@ -84,11 +84,15 @@
 
 ### Some Repos
 
+<br/>
+
 [![HTML Form](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=form)](https://github.com/Theuri0411/form)
 
 [![Tax Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=TaxCalculator)](https://github.com/Theuri0411/TaxCalculator)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuri0411&layout=compact)(https://github.com/Theuri0411)
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuri0411&layout=compact)]
 
 [twitter]: https://twitter.com/Theuri0411
 [instagram]: https://instagram.com/jeffshady_
