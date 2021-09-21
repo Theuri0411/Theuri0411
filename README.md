@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on several web projects (CSS & HTML)
 - 🌱 I’m currently learning Javascript and everything 🤣
 - 👯 I’m looking to collaborate with other programming enthusiasts
-- 🥅 2021/22 Goals: Learn flutter-dart, react.js and node.js
+- 🥅 2021/22 Goals: Learn flutter-dart, react.js and node.js 💪
 - ⚡ Fun fact: I love to books and research
 
 ### Connect with me:
@@ -44,8 +44,8 @@
 
 <!-- YOUTUBE:START -->
 
-- [FreeCodeCamp.org 💪, Find a Mentor 🦉](https://www.youtube.com/c/Freecodecamp)
-- [TechWithTim](https://www.youtube.com/c/TechWithTim)
+- [Free Code Camp](https://www.youtube.com/c/Freecodecamp)
+- [Tech With Tim](https://www.youtube.com/c/TechWithTim)
 - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
 - [Design Course)](https://www.youtube.com/c/DesignCourse)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
@@ -53,13 +53,13 @@
 
 ---
 
-### 📕 Blogs to Read
+### 📕 Suggested Blogs 🦉
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Useful VS Code Extensions for FrontEnd Developers](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/)
 - [Best VS Code Extensions - Blog - Ponicode](https://www.ponicode.com/blog/best-extensions-for-vs-code)
-- [Emmet Part 1](https://www.codestackr.com/blog/emmet-basics-part-1/)
+- [Emmet Part 1-Basics](https://www.codestackr.com/blog/emmet-basics-part-1/)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
@@ -70,11 +70,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Theuri0411.vercel.app/api?username=Theuri0411&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jeff's GitHub Stats" src="https://github-readme-stats.Theuri0411.vercel.app/api?username=Theuri0411&show_icons=true&hide_border=true" />
 
 </details>
 
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/Theuri0411
 [instagram]: https://instagram.com/jeffshady_
 [linkedin]: https://linkedin.com/in/jeff-theuri-48818520b
