@@ -78,12 +78,11 @@
 
 </details>
 
-<details>
-  <summary>:zap:GitHub Stats</summary>
+### My Stats
 
-  <img align="left" alt="Jeff's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&count_private=true&include_all_commits&theme=dracula" />
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theuri0411&show_icons=true&theme=radical)
 
-</details>
+### Some Repos
 
 [![HTML Form](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=form)](https://github.com/Theuri0411/form)
 
