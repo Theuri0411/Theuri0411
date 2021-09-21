@@ -88,7 +88,7 @@
 
 [![Tax Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Theuri0411&repo=TaxCalculator)](https://github.com/Theuri0411/TaxCalculator)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuri0411=compact)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuri0411&layout=compact)]
 
 [twitter]: https://twitter.com/Theuri0411
 [instagram]: https://instagram.com/jeffshady_
