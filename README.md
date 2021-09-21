@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Javascript and everything 🤣
 - 👯 I’m looking to collaborate with other programming enthusiasts
 - 🥅 2021/22 Goals: Learn flutter-dart, react.js and node.js 💪
-- ⚡ Fun fact: I love to books and research
+- ⚡ Fun fact: I love to read books and research
 
 ### Connect with me:
 
@@ -28,6 +28,8 @@
 
 ---
 
+<br />
+
 ### Languages
 
 <img align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -37,6 +39,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
 
 ---
+
+<br />
 
 ### Version Control
 
