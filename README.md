@@ -51,6 +51,10 @@
 
 ---
 
+<details>
+  <summary>:zap: Study Materials </summary>
+<!--START_SECTION:activity-->
+  
 ### 📺 Guiding YouTube Channels 🎓
 
 <!-- YOUTUBE:START -->
@@ -73,6 +77,10 @@
 - [Emmet Part 1-Basics](https://www.codestackr.com/blog/emmet-basics-part-1/)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
+
+<!--END_SECTION:activity-->
+
+</details>
 
 ---
 
