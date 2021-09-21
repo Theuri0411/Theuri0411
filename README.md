@@ -26,7 +26,7 @@
 
 <img align="left" alt="WebStorm" width="20px" src="webstorm.jpg" />
 
-<br />
+---
 
 ### Languages:
 
