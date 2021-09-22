@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on several web projects (CSS & HTML)
 - 🌱 I’m currently learning Javascript and everything 🤣
-- 👯 I’m looking to collaborate with other programming enthusiasts
-- 🥅 2021/22 Goals: Learn flutter-dart, react.js and node.js 💪
-- ⚡ Fun fact: I love to read books and research
+- 👯 I’m looking to collaborate with other Devs
+- 🥅 2021/22 Goals: Learn Flutter-Dart, React and Node.js 💪
+- ⚡ Fun fact: I love to read books
 
 ### Connect with me:
 
