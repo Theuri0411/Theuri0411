@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Theuri0411?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheuri0411&screen_name=Theuri0411)
 
-## I'm a Developer, and a Student!!
+## I'm a Web Developer!!
 
 - 🔭 I’m currently working on several web projects (CSS & HTML)
 - 🌱 I’m currently learning Javascript and everything 🤣
